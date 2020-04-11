@@ -1,3 +1,5 @@
+link: https://sites.google.com/site/nips2014atari/#TOC-Method-1:-UCTtoRegression-for-UCT-to-CNN-via-Regression-
+
 # atari_uct
 Upper Confidence Tree Planner for ATARI games
 
